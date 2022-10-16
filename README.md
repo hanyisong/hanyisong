@@ -1,5 +1,4 @@
 ### Hi there 👋
-blog: https://blog.csdn.net/hys__handsome
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanyisong&show_icons=true&theme=tokyonight)
 
